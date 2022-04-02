@@ -1,12 +1,12 @@
 img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode"/>
 
-<h1> Lucas Gorziza da Silva </h1>
+<h1> Felipe de Alvarenga Arnt </h1>
 
 <p>💻 - Com programação é possível mudar o nosso modo de vida e a forma como pensamos sobre tudo, acredito que com persistência e determinação é possível alcançar grandes resultados.<p>
 
-<p>🌱 - Atualmente aprendendo linguagem C e coleta de requisitos.</p>
+<p>🌱 - Atualmente aprendendo linguagem Java.</p>
 
-<p>📚 - Estudando Análise e Desenvolvimento de Sistemas (ADS) na Uniritter.</p>
+<p>📚 - Estudando Ciência da computação na PUC-RS.</p>
 
 <p>💬 - À procura de um estágio na área. </p>
 
@@ -16,11 +16,11 @@ img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/mas
 
 
 <a href="https://github.com/anuraghazra/github-redme-stats">
-<img align="right" height="100" src="https://github-readme-stats.vercel.app/api?username=lucasgorzizas&hide=prs,issues&show_icons=true&theme=dracula"/>
+<img align="right" height="100" src="https://github-readme-stats.vercel.app/api?username=felipearnt&hide=prs,issues&show_icons=true&theme=dracula"/>
 </a>
 &nbsp; &nbsp;
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&theme=vision-friendly-dark">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgorzizas&hide=css,java,ruby,starlark,objective-c&theme=dracula&langs_count=6"/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt&theme=vision-friendly-dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt&hide=css,java,ruby,starlark,objective-c&theme=dracula&langs_count=6"/>
   
  
 <a href="lipe.arnt@gmail.com" alt="Gmail">
@@ -29,8 +29,6 @@ img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/mas
 </p>
 <br/>
 
-<a href = "" alt="Outlook"
-<img align="left" src=
 
 <a href="https://www.linkedin.com/in/felipe-arnt-a81604236//" alt="Linkedin">
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

@@ -8,7 +8,7 @@
 </p>
 <br/>
 @@ -38,3 +38,11 @@
-<a href="https://www.instagram.com/lipearnt1/" alt="Instagram">
+<a href="https://www.instagram.com/lipe_arnt1/" alt="Instagram">
 <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 

@@ -16,6 +16,8 @@
 <br/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=felipearnt.felipearnt)
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/felipearnt)
+
 
 
 <a href="https://github.com/anuraghazra/github-redme-stats">

@@ -20,8 +20,7 @@
 <img align="right" height="100" src="https://github-readme-stats.vercel.app/api?username=felipearnt&hide=prs,issues&show_icons=true&theme=dracula"/>
 </a>
 &nbsp; &nbsp;
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt&theme=vision-friendly-dark">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt=css,java,ruby,starlark,objective-c&theme=dracula&langs_count=6"/>
+
   
 <a href="https://www.linkedin.com/in/felipe-arnt-a81604236//" alt="Linkedin">
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

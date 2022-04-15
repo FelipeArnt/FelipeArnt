@@ -22,8 +22,7 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-redme-stats">
-<img align="right" height="100" src="https://github-readme-stats.vercel.app/api?username=felipearnt&hide=prs,issues&show_icons=true&theme=dracula"/>
+<a href=![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=tokyonight)
 </a>
 &nbsp; &nbsp;
 

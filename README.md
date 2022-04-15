@@ -23,10 +23,6 @@
 
 
 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=tokyonight)
-
 &nbsp; &nbsp;
 
 <a href="https://www.linkedin.com/in/felipe-arnt-a81604236//" alt="Linkedin">
@@ -44,6 +40,7 @@
 
 </a>
 <div style="display: inline_block"><br>
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=tokyonight)
  
 <h1> </h1>
 </div>

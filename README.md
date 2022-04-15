@@ -40,7 +40,7 @@
 
 </a>
 <div style="display: inline_block"><br>
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=tokyonight)
+
  
-<h1> </h1>
+<h1>![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=tokyonight) </h1>
 </div>

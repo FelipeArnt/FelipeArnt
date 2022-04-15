@@ -21,21 +21,19 @@
 </a>
 &nbsp; &nbsp;
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt&theme=vision-friendly-dark">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt&hide=css,java,ruby,starlark,objective-c&theme=dracula&langs_count=6"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt=css,java,ruby,starlark,objective-c&theme=dracula&langs_count=6"/>
   
-
-
 <a href="https://www.linkedin.com/in/felipe-arnt-a81604236//" alt="Linkedin">
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 <br/>
 
-
-
 <a href="https://www.instagram.com/lipe_arnt1/" alt="Instagram">
 <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+
 
 
 </a>

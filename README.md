@@ -11,7 +11,9 @@
 
 <p>💬 - À procura de um estágio na área. </p>
 
-<p> <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"
+<p> <img align="center" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">
+<p> <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<p> <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
 </p>
 <br/>
@@ -39,7 +41,5 @@
 
 </a>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Java" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Felipe-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <h1> </h1>
 </div>

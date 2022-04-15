@@ -16,7 +16,9 @@
 <br/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=felipearnt.felipearnt)
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/felipearnt)
+[![Github](https://img.shields.io/github/followers/felipearnt?label=Follow&style=social)](https://github.com/felipearnt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=tokyonight)
+
 
 
 

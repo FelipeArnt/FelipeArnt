@@ -17,7 +17,8 @@
  <a href="https://twitter.com/lipearnt" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/felipe-arnt-a81604236/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:felipe.arnt@edu.pucrs.br"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" height="30" style="vertical-align:top; margin:4px"></a>
-</p>
+ <a href="https://www.instagram.com/lipe_arnt1/" target="_blank" rel="noopeber noreferrer"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</p> 
 
 <br />
 

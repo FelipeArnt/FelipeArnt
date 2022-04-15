@@ -21,7 +21,6 @@
 </a>
 &nbsp; &nbsp;
 
-  
 <a href="https://www.linkedin.com/in/felipe-arnt-a81604236//" alt="Linkedin">
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>

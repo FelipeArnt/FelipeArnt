@@ -11,7 +11,7 @@
 
 <p>💬 - À procura de um estágio na área. </p>
 
-## ✉️ Find me on:
+## ✉️ Me procure em:
 
 <p align="left">
  <a href="https://twitter.com/lipearnt" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" style="vertical-align:top; margin:4px"> </a>

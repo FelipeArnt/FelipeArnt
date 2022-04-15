@@ -3,7 +3,7 @@
 
 <h1> Felipe de Alvarenga Arnt </h1>
 
-<p>💻 - Com programação é possível mudar o nosso modo de vida e a forma como pensamos sobre tudo, acredito que com persistência e determinação é possível alcançar grandes resultados.<p>
+<p>💻 - Com programação mudamos nosso modo de pensar.<p>
 
 <p>🌱 - Atualmente aprendendo linguagem Java.</p>
 

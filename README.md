@@ -15,6 +15,8 @@
 <br/>
 <br/>
 
+![](https://visitor-badge.laobi.icu/badge?page_id=felipearnt.felipearnt)
+
 
 <a href="https://github.com/anuraghazra/github-redme-stats">
 <img align="right" height="100" src="https://github-readme-stats.vercel.app/api?username=felipearnt&hide=prs,issues&show_icons=true&theme=dracula"/>

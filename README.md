@@ -17,13 +17,16 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=felipearnt.felipearnt)
 [![Github](https://img.shields.io/github/followers/felipearnt?label=Follow&style=social)](https://github.com/felipearnt)
+
+
+
+
+
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=tokyonight)
 
-
-
-
-<a href=![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=tokyonight)
-</a>
 &nbsp; &nbsp;
 
 <a href="https://www.linkedin.com/in/felipe-arnt-a81604236//" alt="Linkedin">

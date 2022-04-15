@@ -11,10 +11,6 @@
 
 <p>💬 - À procura de um estágio na área. </p>
 
- <img align="center" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">
- <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
- <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-
 </p>
 <br/>
 <br/>

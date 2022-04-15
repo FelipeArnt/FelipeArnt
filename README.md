@@ -36,17 +36,7 @@
 </p>
 <br/>
 
-<a href="https://www.instagram.com/lipe_arnt1/" alt="Instagram">
-<img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
-
-
-
-</a>
-<div style="display: inline_block"><br>
- <a href="https://www.linkedin.com/in/felipe-arnt-a81604236//" alt="Linkedin">
-<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 <br/>

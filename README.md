@@ -5,7 +5,7 @@
 
 <p>💻 - Com programação mudamos nosso modo de pensar.<p>
 
-<p>🌱 - Atualmente aprendendo Java e C</p>
+<p>🌱 - Atualmente aprendendo Java.</p>
 
 <p>📚 - Estudando Ciência da computação na PUC-RS</p>
 

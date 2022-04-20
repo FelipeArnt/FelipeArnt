@@ -1,5 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode"/>
 
-<img src="C:\Users\felipe.arnt\Downloads\—Pngtree—programming and web technology vector_4089305 width="400px" align="right" alt="Computador iuriCode"/>
 
 <h1> Felipe de Alvarenga Arnt </h1>
 

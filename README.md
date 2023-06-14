@@ -7,7 +7,7 @@
 
 <p>🌱 - Atualmente aprendendo Java.</p>
 
-<p>📚 - Estudante de Ciência da computação na PUC-RS</p>
+<p>📚 - Estudante de Engeharia de Software em PUC-RS</p>
 
 <p>💬 - À procura de um estágio na área </p>
 

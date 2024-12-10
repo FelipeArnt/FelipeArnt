@@ -7,9 +7,9 @@
 
 <p>🌱 - Atualmente aprendendo Java.</p>
 
-<p>📚 - Estudante de Engeharia de Software em PUC-RS</p>
+<p>📚 - Estudante de Engenharia de Software em PUC-RS</p>
 
-<p>💬 - À procura de um estágio na área </p>
+<p>💬 - Estagiário LABELO / VSW </p>
 
 ## ✉️ Me procure em:
 

@@ -3,13 +3,13 @@
 
 <h1> Felipe de Alvarenga Arnt </h1>
 
-<p>💻 - Com programação mudamos nosso modo de pensar.<p>
+<p>💬 - Com programação mudamos nosso modo de pensar.<p>
 
 <p>🌱 - Atualmente aprendendo Java.</p>
 
 <p>📚 - Estudante de Engenharia de Software em PUC-RS</p>
 
-<p>💬 - Estagiário LABELO / VSW </p>
+<p>💻 - LABELO / VSW </p> 
 
 ## ✉️ Me procure em:
 

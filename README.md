@@ -3,7 +3,6 @@
 <h1> Felipe de Alvarenga Arnt </h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320px" align="right" alt="Computador iuriCode"/>
 
-
 <p>💬 - We can change the way we think when programming.<p>
 
 <p>🌱 - Learning Java.</p>
@@ -11,6 +10,8 @@
 <p>📚 - Software engineering student at PUC-RS</p>
 
 <p>💻 - LABELO - Software Verification </p> 
+
+
 
 ## ✉️ Find me in :
 

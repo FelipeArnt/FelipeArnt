@@ -2,9 +2,6 @@
 
 
 <img src="https://github.com/user-attachments/assets/5c60dfc6-9e99-4d18-968b-80f7d3c163c2" width="260" align="right" alt="Computador black"/> 
-
-
-
 <p>💬 - We can change the way we think programming.<p>
 
 <p>🌱 - Learning Java.</p>
@@ -13,14 +10,10 @@
 
 <p>💻 - LABELO - Software Verification </p> 
 
-
-
-
-
 ## ✉️ Find me in :
 
-
 <p align="left">
+
  <a href="https://www.linkedin.com/in/felipe-arnt-a000a4282/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:felipe.arnt@pucrs.br"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" height="30" style="vertical-align:top; margin:4px"></a>
  

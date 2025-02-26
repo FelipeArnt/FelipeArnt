@@ -1,10 +1,9 @@
 
 
 <h1> Felipe de Alvarenga Arnt </h1>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320px" align="right" alt="Computador iuriCode"/>
-<img src="https://github.com/user-attachments/assets/2a5f4928-9a3b-4fe2-8de9-165f637510e9" width="320" align="right" alt="Computador black"/> 
-">
-<p>💬 - We can change the way we think when programming.<p>
+<img src="https://github.com/user-attachments/assets/5c60dfc6-9e99-4d18-968b-80f7d3c163c2"width="320" align="right" alt="Computador black"/> 
+
+ <p>💬 - We can change the way we think when programming.<p>
 
 <p>🌱 - Learning Java.</p>
 

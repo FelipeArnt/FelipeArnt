@@ -10,7 +10,7 @@
 
 <p>📚 - Software engineering student at PUC-RS</p>
 
-<p>💻 - LABELO - VSW </p> 
+<p>💻 - LABELO - Software Verification </p> 
 
 ## ✉️ Me procure em:
 

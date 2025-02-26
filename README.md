@@ -2,7 +2,7 @@
 
 
 <img src="https://github.com/user-attachments/assets/5c60dfc6-9e99-4d18-968b-80f7d3c163c2" width="190" align="right" alt="Computador black"/> 
-<p>💬 - We can change the way we think programming.<p>
+<p>💬 - We can change the way we think coding<p>
 
 <p>🌱 - Learning Java.</p>
 

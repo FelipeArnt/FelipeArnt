@@ -3,7 +3,7 @@
 
 <h1> Felipe de Alvarenga Arnt </h1>
 
-<p>💬 - Com programação mudamos nosso modo de pensar.<p>
+<p>💬 - We can change the way we think when programming.<p>
 
 <p>🌱 - Learning Java.</p>
 

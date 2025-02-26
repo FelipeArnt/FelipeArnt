@@ -5,7 +5,7 @@
 
 
 
-<p>💬 - We can change the way we think when programming.<p>
+<p>💬 - We can change the way we think programming.<p>
 
 <p>🌱 - Learning Java.</p>
 

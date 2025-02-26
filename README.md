@@ -2,7 +2,7 @@
 
 <h1> Felipe de Alvarenga Arnt </h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320px" align="right" alt="Computador iuriCode"/>
-<img src="https://github.com/user-attachments/assets/2a5f4928-9a3b-4fe2-8de9-165f637510e9" width="320" align="" alt="Computador black"/> 
+<img src="https://github.com/user-attachments/assets/2a5f4928-9a3b-4fe2-8de9-165f637510e9" width="320" align="right" alt="Computador black"/> 
 ">
 <p>💬 - We can change the way we think when programming.<p>
 

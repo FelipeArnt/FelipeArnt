@@ -8,7 +8,7 @@
 
 <p>📚 - Software engineering student at PUC-RS</p>
 
-<p>💻 - LABELO - Software Verification </p> 
+<p>💻 - LABELO - Software Verification. </p> 
 
  
 

@@ -6,7 +6,7 @@
 
 <p>🌱 - Learning Java.</p>
 
-<p>📚 - Software engineering student at PUC-RS</p>
+<p>📚 - Software engineering student at PUC-RS.</p>
 
 <p>💻 - LABELO - Software Verification. </p> 
 

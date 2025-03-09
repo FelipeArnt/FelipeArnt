@@ -11,15 +11,6 @@
 <p>💻 - LABELO - Software Verification. </p> 
 
  
-
-<br />
-
-## 🧰 Coding in :
-<p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
-</p>
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=felipearnt.felipearnt)
 [![Github](https://img.shields.io/github/followers/felipearnt?label=Follow&style=social)](https://github.com/felipearnt)
 

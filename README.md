@@ -12,9 +12,7 @@
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<p>📚 - Software engineering student at PUC-RS.</p>
 
-<p>💻 - LABELO - Software Verification. </p> 
 
  
 ![](https://visitor-badge.laobi.icu/badge?page_id=felipearnt.felipearnt)

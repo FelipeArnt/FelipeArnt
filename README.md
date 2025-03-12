@@ -6,7 +6,7 @@
 
 Currently, I code in C and Java, and I’ve developed some Python3 scripts to streamline processes at my workplace. I’m always eager to learn new things and explore opportunities to expand my skills and contribute to innovative projects.
 
-<p>🌱 - Learning Java and Python.</p>
+<p>🌱 - Learning C and Python.</p>
 
 <p>📚 - Software engineering student at PUC-RS.</p>
 

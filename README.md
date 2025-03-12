@@ -3,8 +3,9 @@
 
 <img src="https://github.com/user-attachments/assets/5c60dfc6-9e99-4d18-968b-80f7d3c163c2" width="190" align="right" alt="Computador black"/> 
 <p>💬 - Hello there! I’m a tech enthusiast with a passion for Linux and software development. My key soft skills include curiosity, which drives me to constantly learn, adaptability to tackle new challenges, and a strong sense of teamwork, which values collaboration and collective growth.
-- Currently, I code in C and Java, and I’ve developed some Python3 scripts to streamline processes at my workplace. I’m always eager to learn new things and explore opportunities to expand my skills and contribute to innovative projects.
-## 🧰 Coding in :
+
+ - Currently, I code in C and Java, and I’ve developed some Python3 scripts to streamline processes at my workplace. I’m always eager to learn new things and explore opportunities to expand my skills and contribute to innovative projects.
+
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">

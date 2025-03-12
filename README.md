@@ -2,7 +2,7 @@
 
 
 <img src="https://github.com/user-attachments/assets/5c60dfc6-9e99-4d18-968b-80f7d3c163c2" width="190" align="right" alt="Computador black"/> 
-<p>💬 - .<p>
+<p>💬 - Hello, my names is Felipe! I'am a linux enthusiast with a lot of curiosiy in the programming world.  <p>
 
 <p>🌱 - Learning Java and Python.</p>
 

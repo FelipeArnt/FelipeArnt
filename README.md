@@ -4,7 +4,7 @@
 <!--<img src="https://your-valid-image-url-here" width="190" align="right" alt="Profile Picture"/>!-->
 
 
-:pager: - Hello there! I’m a tech enthusiast with a passion for Linux, software development, and hardware projects in my free time. My key soft skills include curiosity, adaptability, and a strong sense of teamwork.
+:pager: - Hello there! I’m a tech enthusiast with a passion for Linux, software development, and hardware. My key soft skills include curiosity, adaptability, and a strong sense of teamwork.
 
 :computer: - Currently, I code in C and Java, and I’ve developed some Python scripts to streamline processes at my workplace. I’m always eager to learn new things and explore opportunities to expand my skills and contribute to innovative projects.
 

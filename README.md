@@ -6,7 +6,7 @@
 
 :computer: - Currently, I code in C and Java, and I’ve developed some Python scripts to streamline processes at my workplace. I’m always eager to learn new things and explore opportunities to expand my skills and contribute to innovative projects.
 
-:wrench: - In my free time, I enjoy working on hardware projects using Arduino, tinkering with electronics, and building things that combine software and hardware. It’s a great way to challenge myself and bring ideas to life!
+:vhs: - In my free time, I enjoy working on hardware projects using Arduino, tinkering with electronics, and building things that combine software and hardware. It’s a great way to challenge myself and bring ideas to life!
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" style="vertical-align:top; margin:4px">

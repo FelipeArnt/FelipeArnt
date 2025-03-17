@@ -10,7 +10,7 @@
 
 :vhs: - In my free time, I enjoy working on hardware projects using Arduino, tinkering with electronics, and building things that combine software and hardware. It’s a great way to challenge myself and bring ideas to life!
 
-:arrow_right: Check out my [Arduino projects](https://github.com/FelipeArnt/HandSanitizerProject), where I’ve built a hands-free hand sanitizer dispenser!
+<!--:arrow_right: Check out my [Arduino projects](https://github.com/FelipeArnt/HandSanitizerProject), where I’ve built a hands-free hand sanitizer dispenser!-->
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" style="vertical-align:top; margin:4px">

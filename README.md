@@ -20,7 +20,7 @@
 
 ## Featured Projects
 - **[Hand Sanitizer Project](https://github.com/FelipeArnt/HandSanitizerProject):** An Arduino-based hands-free hand sanitizer dispenser.
-- **[Project Name](link):** A brief description of what it does.
+<!-- - **[Project Name](link):** A brief description of what it does.!-->
 
 ## My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=tokyonight)

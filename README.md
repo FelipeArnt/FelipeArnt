@@ -6,7 +6,7 @@
 
 <p>💬 - Hello there! I’m a tech enthusiast with a passion for Linux and software development. My key soft skills include curiosity, adaptability and a strong sense of teamwork, which values collaboration and collective growth.
 
-<img src="(https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 
 <p>💬 - Currently, I code in C and Java, and I’ve developed some Python scripts to streamline processes at my workplace. I’m always eager to learn new things and explore opportunities to expand my skills and contribute to innovative projects.

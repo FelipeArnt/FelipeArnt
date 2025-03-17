@@ -13,6 +13,9 @@
 <!--:arrow_right: Check out my [Arduino projects](https://github.com/FelipeArnt/HandSanitizerProject), where I’ve built a hands-free hand sanitizer dispenser!-->
 
 <p align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=java,c++,python3,&theme=dark)](https://skillicons.dev)
+  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="40" height="40" style="vertical-align:top; margin:4px"/>

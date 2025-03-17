@@ -6,7 +6,7 @@
 
 :pager: - Hello there! I’m a tech enthusiast with a passion for Linux, software development, and hardware. My key soft skills include curiosity, adaptability, and a strong sense of teamwork.
 
-:computer: - Currently, I code in C and Java, and I’ve developed some Python scripts to streamline processes at my workplace. I’m always eager to learn new things and explore opportunities to expand my skills and contribute to innovative projects.
+:computer: - Currently, I code in C++ and Java, and I’ve developed some Python scripts to streamline processes at my workplace. I’m always eager to learn new things and explore opportunities to expand my skills and contribute to innovative projects.
 
 :vhs: - In my free time, I enjoy working on hardware projects using Arduino, tinkering with electronics, and building things that combine software and hardware. It’s a great way to challenge myself and bring ideas to life!
 

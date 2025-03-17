@@ -14,7 +14,7 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,arduino,neovim,&theme=dark)](https://skillicons.dev)
 
 </p>
 
@@ -22,12 +22,8 @@
 
 - **[Hand Sanitizer Project](https://github.com/FelipeArnt/HandSanitizerProject):** An Arduino-based hands-free hand sanitizer dispenser.
 - **[Real time Temperature Monitor System.](https://github.com/FelipeArnt/Temperature-Monitoring-System):** An arduino-based Real-time temperature monitor system.
+---
 
- <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,arduino,neovim" />
-  </a>
-</p>
 
 ## My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=tokyonight)

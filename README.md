@@ -4,11 +4,11 @@
 
 
 
-<p>💬 - Hello there! I’m a tech enthusiast with a passion for Linux and software development. My key soft skills include curiosity, adaptability and a strong sense of teamwork, which values collaboration and collective growth.
+<p>💬 - Hello there! I’m a tech enthusiast with a passion for Linux and software development. My key soft skills include curiosity, adaptability and a strong sense of teamwork.
 
 <br>
 
-<p>💬 - Currently, I code in C and Java, and I’ve developed some Python scripts to streamline processes at my workplace. I’m always eager to learn new things and explore opportunities to expand my skills and contribute to innovative projects.
+<p>:computer: - Currently, I code in C and Java, and I’ve developed some Python scripts to streamline processes at my workplace. I’m always eager to learn new things and explore opportunities to expand my skills and contribute to innovative projects.
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" style="vertical-align:top; margin:4px">

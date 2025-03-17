@@ -20,7 +20,7 @@
 ## Featured Projects
 
 - **[Hand Sanitizer Project](https://github.com/FelipeArnt/HandSanitizerProject):** An Arduino-based hands-free hand sanitizer dispenser.
-- **[Real time Temperature Monitor System.](https://github.com/FelipeArnt/Temperature-Monitoring-System):** An arduino-based Real-time temperature monitor system.
+- **[Real time Temperature Monitor System](https://github.com/FelipeArnt/Temperature-Monitoring-System):** An arduino-based Real-time temperature monitor system.
 ---
 
 

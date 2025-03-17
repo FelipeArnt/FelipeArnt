@@ -4,7 +4,7 @@
 
 
 
-<p>💬 - Hello there! I’m a tech enthusiast with a passion for Linux and software development. My key soft skills include curiosity, adaptability and a strong sense of teamwork.
+<p>:pager: - Hello there! I’m a tech enthusiast with a passion for Linux and software development. My key soft skills include curiosity, adaptability and a strong sense of teamwork.
 
 <br>
 

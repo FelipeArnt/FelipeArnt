@@ -27,5 +27,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt&theme=tokyonight)
 
 ---
-
-*"Keep coding, keep building, and never stop learning!"*

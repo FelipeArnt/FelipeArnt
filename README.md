@@ -14,7 +14,8 @@
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-:arrow_right: Check out my Arduino projects for some of my hardware work!
+:arrow_right: Check out my [Arduino projects](https://github.com/FelipeArnt/HandSanitizerProject) for some of my hardware work!
+
 
 
 ## My GitHub Stats :

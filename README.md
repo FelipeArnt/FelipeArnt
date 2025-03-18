@@ -13,7 +13,7 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,arduino,neovim,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,arduino,linux,&theme=dark)](https://skillicons.dev)
 
 </p>
 

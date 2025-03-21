@@ -18,7 +18,7 @@
 ## Featured Projects
 
 - **[Hand Sanitizer Project](https://github.com/FelipeArnt/HandSanitizerProject):** An Arduino-based hands-free hand sanitizer dispenser.
-- **[Projetos-Faculdade](https://github.com/FelipeArnt/Projetos-Faculdade):** Projects developed in the software engineering course at PUCRS 
+- **[Projetos-Faculdade](https://github.com/FelipeArnt/Projetos-Faculdade):** Projects developed in the software engineering course at PUCRS.
 <!--- **[Real time Temperature Monitor System](https://github.com/FelipeArnt/Temperature-Monitoring-System):** An arduino-based Real-time temperature monitor system.-->
 ---
 

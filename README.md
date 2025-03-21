@@ -23,7 +23,10 @@
 
 
 ## My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt&theme=transparent&show_icons=true)
+
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=transparent)-->
+<div align="left">
+<img height="160em" src=https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=transparent>
+<img height="160em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt&theme=transparent&show_icons=true>
 
 ---

@@ -15,19 +15,11 @@
 
 </p>
 
-## Featured Projects
 
-- **[Hand Sanitizer Project](https://github.com/FelipeArnt/HandSanitizerProject):** An Arduino-based hands-free hand sanitizer dispenser.
-- **[Projetos-Faculdade](https://github.com/FelipeArnt/Projetos-Faculdade):** Projects developed in the software engineering course at PUCRS.
-<!--- **[Real time Temperature Monitor System](https://github.com/FelipeArnt/Temperature-Monitoring-System):** An arduino-based Real-time temperature monitor system.-->
----
-
-
-## My GitHub Stats
-
+# My GitHub Stats
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=transparent)-->
 <div align="left">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipearnt&hide_rank=true&hide=contribs,prs&show_icons=true&theme=transparent">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt&theme=transparent&show_icons=true">
 
----
+

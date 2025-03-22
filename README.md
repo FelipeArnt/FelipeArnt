@@ -20,6 +20,6 @@
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=transparent)-->
 <div align="left">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipearnt&hide_rank=true&hide=contribs,prs&show_icons=true&theme=transparent">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt&theme=transparent&show_icons=true">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-lang/?username=felipearnt&theme=transparent&show_icons=true">
 
 

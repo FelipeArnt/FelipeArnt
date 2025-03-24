@@ -17,9 +17,12 @@
 
 
 # My GitHub Stats
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=transparent)-->
-<div align="left">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipearnt&hide_rank=true&hide=contribs,prs&show_icons=true&theme=transparent">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt&theme=transparent&show_icons=true">
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt&theme=transparent&show_icons=true)
+
+
+<!--<div align="left">
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=felipearnt&hide_rank=true&hide=contribs,prs&show_icons=true&theme=transparent">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipearnt&show_icons=true&theme=transparent)
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipearnt&theme=transparent&show_icons=true">
 
 

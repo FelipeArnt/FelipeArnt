@@ -15,7 +15,7 @@
 
 </p>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeArnt&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs,prs&) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&theme=transparent&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeArnt&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs,prs&)  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&theme=transparent&hide_border=true)
 
 <!--<div align="left">
 <img height="100em" src="https://github-readme-stats.vercel.app/api?username=felipearnt&hide_rank=true&hide=contribs,prs&show_icons=true&theme=transparent">

@@ -11,6 +11,7 @@
 
 <p align="left">
 
+# 👾 Skills
 [![My Skills](https://skillicons.dev/icons?i=java,c,python,arduino,kali,&theme=dark)](https://skillicons.dev)
 
 </p>

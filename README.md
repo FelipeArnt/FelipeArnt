@@ -1,4 +1,4 @@
-# Felipe de Alvarenga Arnt
+# ⚛️ Felipe de Alvarenga Arnt
 <img src="https://github.com/user-attachments/assets/5c60dfc6-9e99-4d18-968b-80f7d3c163c2" width="190" align="right" alt="Computador black"/> 
 
 <!--<img src="https://your-valid-image-url-here" width="190" align="right" alt="Profile Picture"/>!-->
@@ -14,6 +14,8 @@
 [![My Skills](https://skillicons.dev/icons?i=java,c,python,arduino,kali,&theme=dark)](https://skillicons.dev)
 
 </p>
+
+# 🛰️ Github Stats
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeArnt&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs,prs&)  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&theme=transparent&hide_border=true)
 

@@ -9,7 +9,7 @@
 
 💻 Currently, I code in C/C++ and Java, and I’ve developed some Python scripts to streamline processes at my workplace. 
 
-🛠️  In my free time, I enjoy working on hardware projects using Arduino, building things that combine software and hardware.
+💾 In my free time, I enjoy working on hardware projects using Arduino, building things that combine software and hardware.
 
 
 

@@ -1,5 +1,5 @@
 
-# ☄️ Felipe de Alvarenga Arnt
+# ⚙️ Felipe de Alvarenga Arnt
 
 <img src="https://github.com/user-attachments/assets/5c60dfc6-9e99-4d18-968b-80f7d3c163c2" width="190" align="right" alt="Computador black"/> 
 

@@ -11,10 +11,8 @@
 - In my free time, I enjoy working on hardware projects using Arduino, building things that combine software and hardware.
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java&theme=dark" align="center"/>
-<img src="https://skillicons.dev/icons?i=c&theme=dark" align="center"/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" align="center"/>
-<img src="https://skillicons.dev/icons?i=kali,arduino&theme=dark" align="right"/>
+<img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" align="center"/>
+<img src="https://skillicons.dev/icons?i=kali,arduino,bash&theme=dark" align="right"/>
 </p>
 
 <!--# 👾 Skills

@@ -16,10 +16,10 @@
 
 <p align="left">
 
-# 👾 Skills
+<!--# 👾 Skills
 [![My Skills](https://skillicons.dev/icons?i=java,c,python,arduino,kali,&theme=dark)](https://skillicons.dev) <img src="https://github.com/user-attachments/assets/1faf5325-b39d-4a6b-a437-ce7a6efcddd0"  width="60" align="right"/>
 
-
+-->
 </p>
 
 # 🛰️ Github Stats

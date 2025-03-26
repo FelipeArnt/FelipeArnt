@@ -6,12 +6,13 @@
 - In my free time, I enjoy working on hardware projects using Arduino, building things that combine software and hardware.
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" align="center"/>
 <img src="https://skillicons.dev/icons?i=kali,arduino,bash&theme=dark" align="right"/>
 </p>
 
 # 🛰️ Github Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeArnt&showicons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs,prs&)  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&hide=shell&theme=transparent&hideborder=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeArnt&showicons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs,prs&)  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&hide=shell&theme=transparent&hide_border=true)
 
 
 <!--<img src="https://github.com/user-attachments/assets/9a8d461e-39a3-4d34-bb86-e48388b6e81e" width = "60" align="right"/>

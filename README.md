@@ -15,7 +15,7 @@
 
 
 # 🛰️ Github Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeArnt&showicons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs,prs&)  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&hide=shell&theme=transparent&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeArnt&showicons=true&theme=transparent&hide_border=true&include_all_commits&hide_rank=true&hide=contribs,prs&) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&hide=shell&theme=transparent&hide_border=true)
 
 
 

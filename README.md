@@ -9,8 +9,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Projetos-Faculdade)](https://github.com/FelipeArnt/Projetos-Faculdade)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Data-Files)](https://github.com/FelipeArnt/Data-Files)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=HandSanitizerProject)](https://github.com/FelipeArnt/HandSanitizerProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=AutoMetro)](https://github.com/FelipeArnt/AutoMetro)
-
+<[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Monitor-Temperatura)](https://github.com/FelipeArnt/Monitor-Temperatura)
 
 # 🛰️ Github Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeArnt&showicons=true&theme=transparent&hide_border=true&include_all_commits&hide_rank=true&hide=contribs,prs&) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&hide=shell&theme=transparent&hide_border=true)

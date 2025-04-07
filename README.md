@@ -8,7 +8,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Projetos-Faculdade)](https://github.com/FelipeArnt/Projetos-Faculdade)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Tablelo)](https://github.com/FelipeArnt/Tablelo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=PocketBurp)](https://github.com/FelipeArnt/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=PocketBurp)](https://github.com/FelipeArnt/PocketBurp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=AutoMetro)](https://github.com/FelipeArnt/AutoMetro)
 
 

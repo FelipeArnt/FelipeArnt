@@ -2,15 +2,19 @@
 - I’m a tech enthusiast with a passion for Linux, software development, and hardware.
 - Currently, I code in C/C++ and Java, and I've developed Python scripts to automate functional tests in embedded systems.
 - In my free time, I enjoy working on hardware projects using Arduino, building things that combine software and hardware.
+- Learning Kernel Level Development at the moment!
 ---
 
-# 💾 Projects
+# 💾 Work Projects
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=AutoMetro)](https://github.com/FelipeArnt/AutoMetro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Tablelo)](https://github.com/FelipeArnt/Tablelo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=C0mparad0r)](https://github.com/FelipeArnt/C0mparad0r)
+---
+# 🏚️ My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=MonitoramentoTemperatura)](https://github.com/FelipeArnt/MonitoramentoTemperatura)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Projetos-Faculdade)](https://github.com/FelipeArnt/Projetos-Faculdade)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=AlcoolEmGel)](https://github.com/FelipeArnt/AlcoolEmGel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=C0mparad0r)](https://github.com/FelipeArnt/C0mparad0r)
 
 # 🛰️ Github Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeArnt&include_all_commits=true&showicons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs,prs) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&hide=lua,html,css,javascript&theme=transparent&hide_border=true)

@@ -8,7 +8,7 @@
 <img src="https://skillicons.dev/icons?i=kali,java,bash,linux&theme=dark" align="center"/>
 </p> 
 
-# 💾 Work Projects
+# ⚖️ Legal Metrology Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=VSW-Tools)](https://github.com/FelipeArnt/VSW-Tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=AutoMetro)](https://github.com/FelipeArnt/AutoMetro)
@@ -17,7 +17,7 @@
 
 ---
 
-# 🌡️ My Projects
+# 🌡️ Relevant Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=MonitoramentoTemperatura)](https://github.com/FelipeArnt/MonitoramentoTemperatura)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Projetos-Faculdade)](https://github.com/FelipeArnt/Projetos-Faculdade)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=AlcoolEmGel)](https://github.com/FelipeArnt/AlcoolEmGel)

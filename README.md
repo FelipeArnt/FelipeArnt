@@ -8,7 +8,7 @@
 <img src="https://skillicons.dev/icons?i=kali,java,bash,linux&theme=dark" align="center"/>
 </p> 
 
-# ⚖️ Legal Metrology Projects
+# 💻 VSW Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=VSW-Tools)](https://github.com/FelipeArnt/VSW-Tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=AutoMetro)](https://github.com/FelipeArnt/AutoMetro)

@@ -2,7 +2,7 @@
 - I’m a tech enthusiast with a passion for Linux, software development, and hardware.
 - Currently, I code in C/C++ and Java, and I've developed Python scripts to automate work tasks.
 - In my free time, I enjoy working on hardware projects using Arduino, building things that combine software and hardware.
-- Learning Kernel Level Development at the moment!
+- Learning Kernel Programming...
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=kali,java,bash,linux&theme=dark" align="center"/>

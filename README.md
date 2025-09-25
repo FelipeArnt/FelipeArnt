@@ -1,6 +1,9 @@
+
+---
+
 # 🤖 Hello There! 
 - I’m a tech enthusiast with a passion for Linux, software development, and hardware.
-- Currently, I code in C/C++ and Java, and I've developed Python scripts to work tasks.
+- Currently, I code in C/C++, Java, and I've developed Python scripts to make things easier day to day.
 - In my free time, I enjoy working on hardware projects using Arduino, building things that combine software and hardware.
 - Learning Kernel Programming...
 
@@ -15,7 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Tablelo)](https://github.com/FelipeArnt/Tablelo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=C0mparad0r)](https://github.com/FelipeArnt/C0mparad0r)
 
----
+
 
 # 🚧 In Progress Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=MonitoramentoTemperatura)](https://github.com/FelipeArnt/MonitoramentoTemperatura)
@@ -23,12 +26,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=AlcoolEmGel)](https://github.com/FelipeArnt/AlcoolEmGel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Data-Files)](https://github.com/FelipeArnt/Data-Files)
 
----
+
 
 # 🛰️ Github Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeArnt&include_all_commits=true&showicons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs,prs) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&hide=lua,html,css,javascript&theme=transparent&hide_border=true)
 
-
+---
 
 
 <!--<img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" align="center"/>

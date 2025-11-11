@@ -12,7 +12,6 @@
 </p> 
 
 # 💻 VSW Projects
-<!---->[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=VSW-PocketBurp)](https://github.com/FelipeArnt/VSW-PocketBurp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=VSW-Tools)](https://github.com/FelipeArnt/VSW-Tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=TV-Box)](https://github.com/FelipeArnt/TV-Box)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Tablelo)](https://github.com/FelipeArnt/Tablelo)
@@ -33,9 +32,16 @@
 ---
 
 
-<!--<img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" align="center"/>
+<!--< 
+POCKETBURP
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=VSW-PocketBurp)](https://github.com/FelipeArnt/VSW-PocketBurp)
+
+img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" align="center"/>
+
 <img src="https://github.com/user-attachments/assets/9a8d461e-39a3-4d34-bb86-e48388b6e81e" width = "60" align="right"/>
+
 <!--# 👾 Skills
+
 [![My Skills](https://skillicons.dev/icons?i=java,c,python,arduino,kali,&theme=dark)](https://skillicons.dev) <img src="https://github.com/user-attachments/assets/1faf5325-b39d-4a6b-a437-ce7a6efcddd0"  width="60" align="right"/>
 -->
 

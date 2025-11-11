@@ -17,8 +17,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=TV-Box)](https://github.com/FelipeArnt/TV-Box)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Tablelo)](https://github.com/FelipeArnt/Tablelo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=C0mparad0r)](https://github.com/FelipeArnt/C0mparad0r)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=AutoMetro)](https://github.com/FelipeArnt/AutoMetro)
 
 # 🚧 In Progress Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=MonitoramentoTemperatura)](https://github.com/FelipeArnt/MonitoramentoTemperatura)

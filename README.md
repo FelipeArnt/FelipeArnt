@@ -28,7 +28,7 @@
 
 
 # 🛰️ Github Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeArnt&include_all_commits=true&showicons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs,prs) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&hide=&theme=transparent&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&hide=&theme=transparent&hide_border=true)
 
 ---
 
@@ -36,7 +36,7 @@
 <!--< 
 POCKETBURP
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=VSW-PocketBurp)](https://github.com/FelipeArnt/VSW-PocketBurp)
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeArnt&include_all_commits=true&showicons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs,prs)
 img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" align="center"/>
 
 <img src="https://github.com/user-attachments/assets/9a8d461e-39a3-4d34-bb86-e48388b6e81e" width = "60" align="right"/>

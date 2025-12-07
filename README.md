@@ -12,8 +12,7 @@
 
 # 💻 VSW Projects
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=VSW-Tools)](https://github.com/FelipeArnt/VSW-Tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=PocketBurp)](https://github.com/FelipeArnt/PocketBurp)-->
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=TV-Box)](https://github.com/FelipeArnt/TV-Box)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=C0mparad0r)](https://github.com/FelipeArnt/C0mparad0r)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Tablelo)](https://github.com/FelipeArnt/Tablelo)
@@ -34,6 +33,10 @@
 
 
 <!--< 
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=VSW-Tools)](https://github.com/FelipeArnt/VSW-Tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=PocketBurp)](https://github.com/FelipeArnt/PocketBurp)
+
 POCKETBURP
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=VSW-PocketBurp)](https://github.com/FelipeArnt/VSW-PocketBurp)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelipeArnt&include_all_commits=true&showicons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs,prs)

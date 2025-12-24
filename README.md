@@ -23,12 +23,13 @@
 
 # 🚧 In Progress Projects
 
+[![Readme Card](https://felipe-arnt.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=GPU-Programming)](https://github.com/FelipeArnt/GPU-Programming)
+[![Readme Card](https://felipe-arnt.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Propriedade-XOR)](https://github.com/FelipeArnt/Propriedade-XOR)
 [![Readme Card](https://felipe-arnt.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=MonitoramentoTemperatura)](https://github.com/FelipeArnt/MonitoramentoTemperatura)
 [![Readme Card](https://felipe-arnt.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Projetos-Faculdade)](https://github.com/FelipeArnt/Projetos-Faculdade)
 [![Readme Card](https://felipe-arnt.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=AlcoolEmGel)](https://github.com/FelipeArnt/AlcoolEmGel)
 [![Readme Card](https://felipe-arnt.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Data-Files)](https://github.com/FelipeArnt/Data-Files)
-[![Readme Card](https://felipe-arnt.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=GPU-Programming)](https://github.com/FelipeArnt/GPU-Programming)
-[![Readme Card](https://felipe-arnt.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Propriedade-XOR)](https://github.com/FelipeArnt/Propriedade-XOR)
+
 
 ---
 

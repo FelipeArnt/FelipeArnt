@@ -35,7 +35,7 @@
 # 🛰️ Github Stats
 
 ![Linguagens mais usadas](https://felipe-arnt.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&hide=&theme=transparent&hide_border=true)
-
+![Estatísticas do GitHub](https://felipe-arnt.vercel.app/api?username=FelipeArnt&include_all_commits=true&showicons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs,prs)
 
 ---
 

@@ -27,7 +27,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=AlcoolEmGel)](https://github.com/FelipeArnt/AlcoolEmGel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Data-Files)](https://github.com/FelipeArnt/Data-Files)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=GPU-Programming)](https://github.com/FelipeArnt/GPU-Programming)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeArnt&hide_border=true&theme=transparent&repo=Propriedade-XOR)](https://github.com/FelipeArnt/Propriedade-XOR)
 
 ---
 

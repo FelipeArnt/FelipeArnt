@@ -32,15 +32,10 @@
 
 # 🛰️ Github Stats
 
-![Linguagens mais usadas](https://felipe-arnt.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&hide=&theme=transparent&hide_border=true)
+![Linguagens mais usadas](https://felipe-arnt.vercel.app/api/top-langs/?username=FelipeArnt&layout=compact&hide=nix,lua,dart,javascript,html&theme=transparent&hide_border=true)
 ![Estatísticas do GitHub](https://felipe-arnt.vercel.app/api?username=FelipeArnt&include_all_commits=true&showicons=true&theme=transparent&hide_border=true&hide_rank=true&hide=contribs,prs,stars)
 
 ---
-
-<!--<img src="https://github.com/user-attachments/assets/5c60dfc6-9e99-4d18-968b-80f7d3c163c2" width="190" align="right" alt="Computador black"/> -->
-<!--<img src="https://github.com/user-attachments/assets/126da257-2f41-486a-9843-cf865dfa31c7"  width="60" align="right"/>
-
-<!--<img src="https://your-valid-image-url-here" width="190" align="right" alt="Profile Picture"/>!-->
 
 
 

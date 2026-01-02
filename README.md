@@ -9,7 +9,7 @@
 
 --- 
 
-## 🔧 Projetos
+## 🔧 Projects
 
 [![GPU-Programming](https://felipe-arnt.vercel.app/api/pin/?username=FelipeArnt&repo=GPU-Programming&hide_border=true&theme=transparent)](https://github.com/FelipeArnt/GPU-Programming)
 [![VSW-Tools](https://felipe-arnt.vercel.app/api/pin/?username=FelipeArnt&repo=VSW-Tools&hide_border=true&theme=transparent)](https://github.com/FelipeArnt/VSW-Tools)

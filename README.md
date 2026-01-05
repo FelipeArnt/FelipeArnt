@@ -3,7 +3,6 @@
 
 - I’m a Computer Engineering student and tech enthusiast with a passion for Linux, embedded software , and hardware.
 - Currently, I code in C/C++, Java and I've developed Python and Bash scripts to improve day to day work tasks.
--  
 
 [![skills](https://skillicons.dev/icons?i=kali,java,bash,linux&theme=dark)](https://github.com/FelipeArnt)
 

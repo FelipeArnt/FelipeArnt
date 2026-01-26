@@ -6,7 +6,7 @@
 ## Technical Proficiency
 
 **Low-Level & Embedded**
-- Firmware analysis, hardware-software integration
+- C source code analysis, hardware-software integration
 - Linux ecosystem & kernel-level tooling
 - High-performance computing (CUDA/C)
 

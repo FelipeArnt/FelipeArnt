@@ -6,21 +6,23 @@
 ## Technical Proficiency
 
 **Low-Level & Embedded**
-- Source code analysis, hardware-software integration
-- Linux ecosystem & kernel-level tooling
-- High-performance computing (CUDA/C)
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+
+- Source code analysis, hardware-software integration
+- Linux ecosystem
+- Bash programming
 
 
-**Cyber-Security Operational Toolkit** 
+**Cyber-Security Operational Toolkit**  
+
+![Burpsuite](https://img.shields.io/badge/burpsuite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
 - Network protocol analysis - Nmap
 - Traffic capture & protocol analysis on routers/TV-Box platforms  
 - Web app brute-force automation  
-
-![Burpsuite](https://img.shields.io/badge/burpsuite-FF6633?style-for-the-badge&logo=burpsuite&logoColor=white)
-
-
 
 
 ---
@@ -47,6 +49,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burpsuite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 
 ### Current Focus

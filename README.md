@@ -5,7 +5,7 @@
 
 ## Technical Proficiency
 
-**Low-Level & Embedded**
+ **Low-Level** 
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -16,7 +16,7 @@
 - Bash programming
 
 
-**Cyber-Security Operational Toolkit**  
+**Cybersecurity**
 
 ![Burpsuite](https://img.shields.io/badge/burpsuite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
@@ -54,11 +54,10 @@
 ![Wireshark](https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burpsuite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
+---
 
 ### Current Focus
 - 🔬 Researching Archiso - Build your own linux.
 - 🛠️ Building lightweight Burp Suite alternatives.
 - ⚡ Optimizing GPU kernels for fun!
 
-
----

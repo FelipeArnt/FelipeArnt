@@ -31,11 +31,13 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **GPU-Programming** | `C` `CUDA` `OpenCL` | High-performance parallel computing implementations and optimization studies |
 | **VSW-Shell** | `C` `Python` `Bash` |  Hardened shell environment for Legal Metrology and cyber security auditing |
+| **GPU-Programming** | `C` `CUDA` `OpenCL` | High-performance parallel computing implementations and optimization studies |
+
+<!--
 | **TV-Box** | `Bash` `Android-Tools` | Bash script for functional tests on Android devices |
 | **C0mparad0r** | `Python` | Comparative analysis engine for software packages |
-
+-->
 ---
 
 ### Core Technologies

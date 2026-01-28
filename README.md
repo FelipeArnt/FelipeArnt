@@ -1,4 +1,4 @@
-<h1 align="left">Felipe Arnt</h1>
+<h1 align="left">Felipe Arnt ⚙️🧉 </h1>
 <h3 align="left">Computer Engineering | Embedded Systems | Cybersecurity </h3>
 
 ---
@@ -34,11 +34,9 @@
 |---------|-------|-------------|
 | **VSW-Shell** | `C` `Python` `Bash` |  Hardened shell environment for Legal Metrology and cyber security auditing |
 | **GPU-Programming** | `C` `CUDA` `OpenCL` | High-performance parallel computing implementations and optimization studies |
+| **Projetos-PUCRS** | `C` `Java` `Javascript` | Projects completed during undergraduate studies at PUC-RS |
 
-<!--
-| **TV-Box** | `Bash` `Android-Tools` | Bash script for functional tests on Android devices |
-| **C0mparad0r** | `Python` | Comparative analysis engine for software packages |
--->
+
 ---
 
 ### Core Technologies
@@ -63,3 +61,4 @@
 - 🛠️ Building lightweight Burp Suite alternatives.
 - ⚡ Optimizing GPU kernels for fun!
 
+---

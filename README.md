@@ -1,5 +1,5 @@
-&lt;h1 align="left"&gt;Felipe Arnt ⚙️🧉 &lt;/h1&gt;
-&lt;h3 align="left"&gt;Computer Engineering | Embedded Systems | Cybersecurity &lt;/h3&gt;
+<h1 align="left">Felipe Arnt ⚙️🧉 </h1>
+<h3 align="left">Computer Engineering | Embedded Systems | Cybersecurity </h3>
 
 ---
 
@@ -32,7 +32,7 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**VSW-Shell**](https://github.com/felipearnt/vsw-shell) | `C` `Python` `Bash` |  Hardened shell environment for Legal Metrology and cyber security auditing |
+| [**VSW-Shell**](https://github.com/felipearnt/VSW-Shell) | `C` `Python` `Bash` |  Hardened shell environment for Legal Metrology and cyber security auditing |
 | [**GPU-Programming**](https://github.com/felipearnt/GPU-Programming) | `C` `CUDA` `OpenCL` | High-performance parallel computing implementations and optimization studies |
 | [**Projetos-PUCRS**](https://github.com/felipearnt/Projetos-PUCRS) | `C` `Java` `Javascript` | Projects completed during undergraduate studies at PUC-RS |
 

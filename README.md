@@ -55,8 +55,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white )
 
 ---
-
-### Current Focus
-- 🔬 Researching Archiso - Build your own linux.
-- 🛠️ Building lightweight Burp Suite alternatives.
-- ⚡ Optimizing GPU kernels for fun!
